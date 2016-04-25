@@ -1,2 +1,2 @@
-# base-components
-Base components for cryptographix-sim-core simulations
+# basic-components
+Simple data and cryptographic components for use in cryptographix sim-core networks
